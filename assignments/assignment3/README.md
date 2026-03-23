@@ -18,6 +18,6 @@ The detection results are also saved as a dataset in Parquet format. The dataset
 
 Links
 
-YouTube Video 1: (paste link here)
-YouTube Video 2: (paste link here)
-Hugging Face Dataset: (paste link here)
+YouTube Video 1: https://www.youtube.com/watch?v=Y3shHgQSkWQ
+YouTube Video 2: https://www.youtube.com/watch?v=FveZUMc3n0Q
+Hugging Face Dataset: https://huggingface.co/datasets/sarahchamoun/eng-ai-agents/blob/main/detections%20(1).parquet 
